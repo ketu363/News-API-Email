@@ -1,6 +1,7 @@
 # What is this Project?
-This app accesses news about a particular topic and send them by email.
+### This app accesses news about a particular topic and send them by email.
 
+---
 
 To send emails using Gmail from an app (like a Python script), **you need an App Password** (especially if you have 2-Step Verification enabled). Here's how to generate one:
 
